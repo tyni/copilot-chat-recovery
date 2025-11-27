@@ -31,7 +31,7 @@ This tool helps you preserve long, rich Copilot chats and re-enter them later fo
 ## 📖 Setup Guide
 
 See the full step-by-step guide:  
-📘 Full Setup Guide (Web): [View HTML Guide](https://your-username.github.io/copilot-chat-recovery/copilot_qa_guide.html)
+📘 Full Setup Guide (Web): [View HTML Guide](https://tyni.github.io/copilot-chat-recovery/copilot_qa_guide.html)
 
 ---
 
@@ -104,5 +104,6 @@ How do I avoid burnout?
 
 🤖 Copilot:
 Burnout can be prevented by setting clear work-life boundaries, taking regular breaks, and prioritizing rest and recovery as much as productivity.
+
 
 
